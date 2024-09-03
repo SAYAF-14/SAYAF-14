@@ -1,3 +1,9 @@
+<div align="right">
+  <a href="https://discord.com/widget?id=1104548526429569024&theme=dark">
+    <img src="https://img.shields.io/badge/Discord-Join%20-blue?style=flat-square&logo=discord&logoColor=white" alt="Join Discord" width="100" />
+  </a>
+</div>
+
 <h1 align="center">Hi I'm Sayaf Alshami,👋</h1>
 <p align="center">
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=SAYAF-14&label=Profile%20views&color=0e75b6&style=flat" alt="SAYAF-14" />
@@ -52,7 +58,7 @@
     <a href="https://www.youtube.com/@sayaf_alshami"><img src="https://imgur.com/uYQleGv.png" alt="Youtube" /></a>
     <a href="https://discord.gg/XceSbdajVQ"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
   </div>
-  
+
   <div align="center"> <h1 align="center"> 📊 GitHub Statistics </h1> </div>
   
   <div align="center">
