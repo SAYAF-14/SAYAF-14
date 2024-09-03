@@ -32,12 +32,15 @@
   📚 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer
   
   I'm committed to crafting innovative solutions, safeguarding the digital domain, and actively contributing to open-source projects. I'm passionate about delving deeply into code and bringing imaginative ideas to life
-  
   </h3>
-  
+   
+  <div align="center"> <h1 align="center"></h1> </div>
+  <div align="center"> <h3 align="center">
+  Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+  </h3>
+<h1 align="center">
+
   </div>
-  
-  
   <div align="center">
   <div align="center"> <h1 align="center"> 🔗 Social Links </h1> </div>
     <a href="https://github.com/SAYAF-14"><img src="https://imgur.com/3ODU5lj.png" alt="GitHub" /></a>
@@ -49,7 +52,6 @@
     <a href="https://www.youtube.com/@sayaf_alshami"><img src="https://imgur.com/uYQleGv.png" alt="Youtube" /></a>
     <a href="https://discord.gg/XceSbdajVQ"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
   </div>
-
   
   <div align="center"> <h1 align="center"> 📊 GitHub Statistics </h1> </div>
   
