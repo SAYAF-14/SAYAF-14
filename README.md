@@ -37,9 +37,9 @@
   
   </div>
   
-  <div align="center"> <h1 align="center"> 🔗 Social Links </h1> </div>
   
   <div align="center">
+  <div align="center"> <h1 align="center"> 🔗 Social Links </h1> </div>
     <a href="https://github.com/SAYAF-14"><img src="https://imgur.com/3ODU5lj.png" alt="GitHub" /></a>
     <a href="https://www.instagram.com/sayaf_14"><img src="https://imgur.com/n2oyhCP.png" alt="Instagram" /></a>
     <a href="https://www.npmjs.com/~sayaf14"><img src="https://imgur.com/rVt9huZ.png" alt="NPM" /></a>
