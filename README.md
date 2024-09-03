@@ -1,9 +1,15 @@
+<h1 align="center">Hi I'm Sayaf Alshami,👋</h1>
 <p align="center">
-    <img src="[https://imgur.com/Z6mlT4T](https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif)" alt="My GitHub stats" style="width: 50%;" />
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=SAYAF-14&label=Profile%20views&color=0e75b6&style=flat" alt="SAYAF-14" />
+		   <img src="https://img.shields.io/github/followers/SAYAF-14?label=Followers" alt="SAYAF-14" />
   </p>
+    <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
   
-  <div align="center"> <h1 align="center"> 🛠 Language & Tools </h1> </div>
-  
+
+
+
+
+<div align="center"> <h1 align="center"> 🛠 Language & Tools </h1> </div>
   <div align="center">
     <img src="https://imgur.com/KEjLMbm.png" alt="C#" />
     <img src="https://imgur.com/M7clnGu.png" alt="C++" />
@@ -21,12 +27,11 @@
   <div align="center"> <h1 align="center"> 👋 About Me </h1> </div>
   
   <div align="center"> <h3 align="center"> 
-  Hello, I'm Sayaf!
   I Speak Arabic, English, and Turkish
   
   📚 Editor | 📜 Scripter | 💻 Error Solver | 📷 Photoshopper | 🎮 Gamer
   
-  I'm committed to crafting innovative solutions, safeguarding the digital domain, and actively contributing to open-source projects. I'm passionate about delving deeply into code and bringing imaginative ideas to life. Let's collaborate and create something extraordinary together!
+  I'm committed to crafting innovative solutions, safeguarding the digital domain, and actively contributing to open-source projects. I'm passionate about delving deeply into code and bringing imaginative ideas to life
   
   </h3>
   
@@ -44,9 +49,16 @@
     <a href="https://www.youtube.com/@sayaf_alshami"><img src="https://imgur.com/uYQleGv.png" alt="Youtube" /></a>
     <a href="https://discord.gg/XceSbdajVQ"><img src="https://imgur.com/Qcg8nxa.png" alt="Discord" /></a>
   </div>
+
   
-  <div align="center"> <h1 align="center"> 😎 Noteable Projects </h1> </div>
+  <div align="center"> <h1 align="center"> 📊 GitHub Statistics </h1> </div>
   
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=SAYAF-14&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="GitHub Statistics" />
+  </div>
+
+<div align="center"> <h1 align="center"> Projects 😍 </h1> </div>
+
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-ai-chatbot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/discord-ai-chatbot" alt="Discord AI Chatbot" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=System-Information&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/System-Information" alt="System Information" />
@@ -56,11 +68,5 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=cleanup-tool&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="Cleanup Tool" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-protection-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/discord-protection-bot" alt="Discord Protection Bot" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-moderator-bot&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5)](https://github.com/wickstudio/discord-moderator-bot" alt="Discord Moderator Bot" />
-  </div>
-  
-  <div align="center"> <h1 align="center"> 📊 GitHub Statistics </h1> </div>
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SAYAF-14&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=30,020614,cfb360&title_color=a5a5a5&text_color=a5a5a5" alt="GitHub Statistics" />
   </div>
   
