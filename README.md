@@ -65,14 +65,14 @@
 
 <div align="center">
   <h1>Projects 😍</h1>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-ai-chatbot&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Discord AI Chatbot" width="300" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=System-Information&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="System Information" width="300" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=Web-Cloner&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Web Cloner" width="300" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=IPExplorer&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="IPExplorer" width="300" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=Discord-Avatar-Decoration-Bot&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Discord Avatar Decoration Bot" width="300" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=cleanup-tool&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Cleanup Tool" width="300" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-protection-bot&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Discord Protection Bot" width="300" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-moderator-bot&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Discord Moderator Bot" width="300" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-ai-chatbot&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Discord AI Chatbot" width="300" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=System-Information&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="System Information" width="300" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=Web-Cloner&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Web Cloner" width="300" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=IPExplorer&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="IPExplorer" width="300" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=Discord-Avatar-Decoration-Bot&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Discord Avatar Decoration Bot" width="300" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=cleanup-tool&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Cleanup Tool" width="300" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-protection-bot&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Discord Protection Bot" width="300" style="margin: 10px;" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-moderator-bot&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Discord Moderator Bot" width="300" style="margin: 10px;" />
   </div>
 </div>
