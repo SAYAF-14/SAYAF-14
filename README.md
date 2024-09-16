@@ -76,3 +76,12 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickstudio&repo=discord-moderator-bot&bg_color=30,020614,FFFFFF&title_color=000000&text_color=000000" alt="Discord Moderator Bot" width="300" style="margin: 10px;" />
   </div>
 </div>
+
+<div align="center">
+<h1>Join Our Community on Discord</h1>
+
+![Discord Server Members - Style 4](https://discordapp.com/api/guilds/1104548526429569024/widget.png?style=banner4)
+
+Click to join our community on Discord
+Visit our [𝐒𝐲𝐟𝐑𝐮𝐬𝐭 𝐒𝐞𝐫𝐯𝐞𝐫](https://discord.gg/XceSbdajVQ) to see the last updates!
+
